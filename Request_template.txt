@@ -1,0 +1,34 @@
+Proposals for requesting access to the data should include the following information: 
+
+
+
+[Requester's details: (title) name and surname, full address, contact details]
+
+[Title of the project] [Principal investigator, if different from the requester]
+
+
+
+Dear colleagues,
+
+We would like to request access to the meta-analysis results summary from the GWAS of IPF study [citation] to be used in [brief description of the project and the aims where this data will be used]. 
+
+Hereafter, the requester agrees to: 
+
+* Use the data only as part of that indicated research.
+
+* Not redistribute the data outside the project without permission.
+
+* Acknowledge the provenance of the data in any dissemination of results.
+
+
+
+[Signature]
+
+
+
+The proposal must be submitted as an attachment to: GWASIPF.adm@gmail.com
+
+
+
+
+
