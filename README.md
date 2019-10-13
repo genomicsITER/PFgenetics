@@ -6,7 +6,12 @@ To date, genome-wide association studies (GWAS) of IPF susceptibility have assoc
 # Meta-analysis of GWAS of IPF susceptibility
 Building up on published GWAS results (1,3,4) and novel study samples, we have performed the largest GWAS of IPF susceptibility to date (5) to identify novel genes and further advance in the understanding of IPF pathogenesis and risk. The discovery stage of the study comprised up to 2,668 IPF cases and 8,591 controls and replication was pursued in an additional 1,467 IPF cases and 11,874 controls.
 
+<p align="center">
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWASIPF.png" width="auto"/>
+</p>
+<p><br></p>
 ![What is this](Figure_susceptibility_GWASIPF.png)
+
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
