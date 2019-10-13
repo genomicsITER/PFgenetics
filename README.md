@@ -53,7 +53,7 @@ Requesters should provide a signed document including the following information:
 
 The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
-A template document for the request is [here](https://github.com/genomicsITER-developers/PFgenetics/blob/master/Request_template.txt).
+A template document for the request is [here](https://github.com/genomicsITER/PFgenetics/blob/master/Request_template.txt).
 
 ## Collaborative group
 Dr. Carlos Flores, Research Unit - Hospital Universitario N.S. de Candelaria & Genomics Division – Instituto Tecnológico y de Energías Renovables (ITER), Spain.
