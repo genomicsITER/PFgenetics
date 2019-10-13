@@ -10,7 +10,7 @@ Building up on published GWAS results (1,3,4) and novel study samples, we have p
   <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWASIPF.png" width="auto"/>
 </p>
 <p><br></p>
-![What is this](Figure_susceptibility_GWASIPF.png)
+<!-- ![What is this](Figure_susceptibility_GWASIPF.png) -->
 
 **Sample sizes for genome-wide analyses**
 
