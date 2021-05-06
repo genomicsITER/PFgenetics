@@ -51,7 +51,7 @@ No individual level data will be made available. Granted requests will have acce
       [This is the p value from the meta-analysis]
 
 ## Who should I contact for requesting access to the data?
-Requesters should contact **`GWASIPF.adm@gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
+Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
 ## Which information should I submit to access the variant summary data?
 Requesters should provide a signed document including the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. 
