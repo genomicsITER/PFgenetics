@@ -4,7 +4,7 @@ Idiopathic pulmonary fibrosis (IPF) is characterized by the build-up of scar tis
 To date, genome-wide association studies (GWAS) of IPF susceptibility have associated common variants (minor allele frequency [MAF]>5%) near genes involved in host defence, telomere maintenance, cell-cell adhesion and signalling in disease susceptibility. Common variants near MUC5B and TOLLIP genes also show association with survival time after diagnosis of IPF (1,2).
 
 # 3-way meta-GWAS of IPF susceptibility (2020)
-Building up on published GWAS results (1,3,4) and novel study samples, we have performed the largest GWAS of IPF susceptibility to date (5) to identify novel genes and further advance in the understanding of IPF pathogenesis and risk. The discovery stage of the study comprised up to 2,668 IPF cases and 8,591 controls and replication was pursued in an additional 1,456 IPF cases and 11,874 controls.
+Building up on published GWAS results (1,3,4) and novel study samples, we have performed a large GWAS of IPF susceptibility (5) to identify novel genes and further advance in the understanding of IPF pathogenesis and risk. The discovery stage of the study comprised up to 2,668 IPF cases and 8,591 controls and replication was pursued in an additional 1,456 IPF cases and 11,874 controls.
 
 <p align="center">
   <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWAS-IPF.png" width="auto"/>
@@ -15,7 +15,7 @@ Building up on published GWAS results (1,3,4) and novel study samples, we have p
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this meta-analysis (1.31 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (Am J Respir Crit Care Med. 2020 201: 564-574. doi: 10.1164/rccm.201905-1017OC. PubMed PMID: 31710517) (1.31 Gb) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
@@ -62,7 +62,7 @@ To maximise power and to generate more accurate effect size estimates, we perfor
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (medRxiv 2021) (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
