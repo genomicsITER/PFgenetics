@@ -54,10 +54,10 @@ No individual level data will be made available. Granted requests will have acce
 To maximise power and to generate more accurate effect size estimates, we performed a genome-wide meta-analysis across all five studies included in the previous IPF risk GWAS (6). We utilised the distribution of effect sizes across the five studies to assess the replicability of the results and identified five robust novel genetic association signals. A total of 4,125 IPF cases, 20,464 controls, and 7,554,248 genetic variants were included in the analysis.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWAS-IPF.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWASIPF-5way.png" width="auto"/>
 </p>
 <p><br></p>
-<!-- ![What is this](Figure_susceptibility_GWASIPF.png) -->
+<!-- ![What is this](Figure_susceptibility_GWASIPF-5way.png) -->
 
 **Sample sizes for genome-wide analyses**
 
