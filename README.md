@@ -15,7 +15,7 @@ Building up on published GWAS results (1,3,4) and novel study samples, we have p
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (Am J Respir Crit Care Med. 2020 201: 564-574. https://doi.org/10.1164/rccm.201905-1017OC) (1.31 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (5; https://doi.org/10.1164/rccm.201905-1017OC) (1.31 Gb) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
@@ -62,7 +62,7 @@ To maximise power and to generate more accurate effect size estimates, we perfor
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (medRxiv https://doi.org/10.1101/2021.12.06.21266509) (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (6; https://doi.org/10.1101/2021.12.06.21266509) (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
