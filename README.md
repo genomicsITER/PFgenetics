@@ -62,7 +62,7 @@ To maximise power and to generate more accurate effect size estimates, we perfor
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (medRxiv 2021) (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (medRxiv https://doi.org/10.1101/2021.12.06.21266509) (roughly 0.8 Gb) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
@@ -129,4 +129,5 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 
 5: Allen RJ,  Guillen-Guio B,  Oldham JM,  Ma SF,  Dressen A,  Paynton ML,  Kraven L,  Obeidat M,  Li X,  Ng M,  Braybrooke R, Molina-Molina M, Hobbs BD,  Putman RK,  Sakornsakolpat P,  Booth HL,  Fahy WA, Hart SP, Hill MR,  Hirani N,  Hubbard RB,  McAnulty RJ, Millar AB, Navaratnam V, Oballa E, Parfrey H, Saini G, Whyte MKB, Zhang Y, Kaminski N, Adengunsoye A, Sterk ME, Neighbors M, Sheng XR, Gudmundsson G, Gudnason V, Hatabu H, Lederer DJ, Manichaikul A, Newell Jr JD, O'Connor GT, Ortega VE, Xu H, Fingerlin TE, Bossé Y, Hao K, Joubert P, Nickle DC, Sin DD, Timens W, Furniss D, Morris AP, Zondervan K, Hall IP, Sayers I, Tobin MD, Maher TM, Cho MH, Hunninghake GM, Schwartz DA, Yaspan BL, Molyneaux PL, Flores C, Noth I, Jenkins RG, Wain LV. Genome-wide association study of susceptibility to idiopathic pulmonary fibrosis. Am J Respir Crit Care Med 2020, 201: 564-574. doi: https://doi.org/10.1164/rccm.201905-1017OC. PubMed PMID: 31710517.
 
-6: Allen RJ, Stockwell A, Oldham JM, Guillen-Guio B, Flores C, Noth I, Yaspan BL, Jenkins RG, Wain LV, International IPF Genetics Consortium. Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis. medRxiv (pending).
+6: Allen RJ, Stockwell A, Oldham JM, Guillen-Guio B, Flores C, Noth I, Yaspan BL, Jenkins RG, Wain LV, International IPF Genetics Consortium. Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis. medRxiv. https://doi.org/10.1101/2021.12.06.21266509
+
