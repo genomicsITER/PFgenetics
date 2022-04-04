@@ -97,6 +97,55 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
       [This is the p value from the meta-analysis]
 
+## GWAS of longitudinal lung function and gas transfer in individuals with IPF (2022)
+To identify genetic variants associated with progressive forms of IPF, we performed a GWAS of longitudinal measures of FVC and DLco to identify variants that lead to a more rapid decline in lung capacity or gas transfer after a diagnosis of IPF (7; https://doi.org/10.1101/2022.03.28.22272832). The discovery stage was performed over three studies (US, UK and UUS). The FVC analysis comprised up to 1,048 IPF cases who had a total of 4,560 FVC measures recorded and the discovery stage of the DLco analysis comprised of 729 cases with a total of 2,795 DLco measures recorded. Follow-up analyses were performed in an independent dataset (the CleanUP-IPF study).
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_decline_GWASIPF.png" width="auto"/>
+</p>
+<p><br></p>
+<!-- ![What is this](Figure_decline_GWASIPF.png) -->
+
+**Sample sizes for genome-wide analyses**
+
+## Access to the results of this study
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (7; https://doi.org/10.1101/2022.03.28.22272832) (470Mb each) can be accessed after an internal assessment of formal requests received.
+ 
+## What type of results would be made available?
+No individual level data will be made available. Granted requests will have access to both the longitudinal FVC and longitudinal DLco analyses in files with the following descriptors:
+
+   •	**chromosome**
+   
+   •	**position**
+   [According to GRCh37/hg19 reference]
+   
+   •	**rsid**
+   
+   •	**non_effect_allele**
+   
+   •	**effect_allele**
+   
+   •	**eaf**
+   [Effect Allele Frequency from across all three studies included in the meta-analysis]
+   
+   •	**n_studies**
+   [The number of studies the variant was analysed in the meta-analysis]
+   
+   •	**n_individuals**
+   [The number of individuals the variant was analysed in the meta-analysis]
+   
+   •	**n_fvc_measures or n_dlco_measures**
+   [The total number of FVC or DLco measures the variant was analysed on the meta-analysis]
+   
+   •	**beta**
+   [This is the beta from the meta-analysis. For the FVC analysis the effect size is in terms of change in FVC in ml/year and for the DLco analysis the effect size is in terms of a change of mmol/min/kPa/year]
+   
+   •	**standard_error**
+   [This is the standard error from the meta-analysis]
+   
+   •	**p**
+   [This is the p value from the meta-analysis]
+
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
@@ -129,5 +178,6 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 
 5: Allen RJ,  Guillen-Guio B,  Oldham JM,  Ma SF,  Dressen A,  Paynton ML,  Kraven L,  Obeidat M,  Li X,  Ng M,  Braybrooke R, Molina-Molina M, Hobbs BD,  Putman RK,  Sakornsakolpat P,  Booth HL,  Fahy WA, Hart SP, Hill MR,  Hirani N,  Hubbard RB,  McAnulty RJ, Millar AB, Navaratnam V, Oballa E, Parfrey H, Saini G, Whyte MKB, Zhang Y, Kaminski N, Adengunsoye A, Sterk ME, Neighbors M, Sheng XR, Gudmundsson G, Gudnason V, Hatabu H, Lederer DJ, Manichaikul A, Newell Jr JD, O'Connor GT, Ortega VE, Xu H, Fingerlin TE, Bossé Y, Hao K, Joubert P, Nickle DC, Sin DD, Timens W, Furniss D, Morris AP, Zondervan K, Hall IP, Sayers I, Tobin MD, Maher TM, Cho MH, Hunninghake GM, Schwartz DA, Yaspan BL, Molyneaux PL, Flores C, Noth I, Jenkins RG, Wain LV. Genome-wide association study of susceptibility to idiopathic pulmonary fibrosis. Am J Respir Crit Care Med 2020, 201: 564-574. doi: https://doi.org/10.1164/rccm.201905-1017OC. PubMed PMID: 31710517.
 
-6: Allen RJ, Stockwell A, Oldham JM, Guillen-Guio B, Flores C, Noth I, Yaspan BL, Jenkins RG, Wain LV, International IPF Genetics Consortium. Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis. medRxiv. https://doi.org/10.1101/2021.12.06.21266509
+6: Allen RJ, Stockwell A, Oldham JM, Guillen-Guio B, Schwartz DA, Maher TM, Flores C, Noth I, Yaspan BL, Jenkins RG, Wain LV, International IPF Genetics Consortium. Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis. Thorax, in press.
 
+7: Allen RJ, Oldham JM, Jenkins DA, Leavy QC, Guillen-Guio B, Melbourne CA, Ma SF, Jou J, Kim JS, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Fahy WA, Oballa E, Hubbard RB, Navaratnam V, Braybrooke R, Saini G, Roach KM, Tobin MD, Hirani N, Whyte MKB, Kaminski N, Zhang Y, Martinez FJ, Linderholm AL, Adegunsoye A, Strek ME, Maher TM, Molyneaux PL, Flores C, Noth I, Jenkins RG, Wain LV. Genome-wide analysis of longitudinal lung function and gas transfer in individuals with idiopathic pulmonary fibrosis. medRxiv 2022.03.28.22272832; doi: https://doi.org/10.1101/2022.03.28.22272832
