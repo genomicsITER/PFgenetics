@@ -146,6 +146,49 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
    [This is the p value from the meta-analysis]
 
+## GWAS of IPF of transplant-free survival (2022)
+A few IPF susceptibility-associated variants have been shown to predict IPF outcomes, suggesting that genomic determinants of IPF susceptibility and survival may have limited overlap. We have performed the first GWAS of IPF survival (8; https://doi.org/10.1101/2022.05.06.22274705) using paired genomic and outcome data from previous studies and novel IPF cases with whole-genome sequencing data from Vanderbilt University. The stage I of the study comprised 1,481 IPF cases assessed at genome-wide scale (UK, US, and UUS studies). Prioritized variants in stage I were then tested in additional 397 IPF cases in stage II, followed by meta-analysis.
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_GWAS_survival.jpg" width="auto"/>
+</p>
+<p><br></p>
+<!-- ![What is this](Figure_GWAS_survival.jpg) -->
+
+**Sample sizes for genome-wide analyses**
+
+## Access to the results of this study
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from the stage I of the GWAS of survival (8; https://doi.org/10.1101/2022.05.06.22274705) (585 Mb) can be accessed after an internal assessment of formal requests received.
+
+## What type of results would be made available?
+No individual level data will be made available. Granted requests will have access to a file with the GWAS variant summary data with information for the following descriptors:
+
+   •	**CHR** 
+
+   •	**POS** 
+[Position according to GRCh37/hg19 reference]
+
+   •	**rsid** 
+[Marker name (CHR:POS)]
+
+   •	**REF**
+[Reference/Non-effect allele]
+
+   •	**ALT** 
+[Alternative/Effect allele]
+
+   •	**EAF**
+[Effect allele frequency taken from across all three studies included in the stage I]
+
+   •	**Effect** 
+[This is the beta from the meta-analysis]
+
+   •	**StdErr**
+[This is the standard error from the meta-analysis]
+
+   •	**P-value**
+[This is the p value from the meta-analysis]
+
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
@@ -181,3 +224,5 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 6: Allen RJ, Stockwell A, Oldham JM, Guillen-Guio B, Schwartz DA, Maher TM, Flores C, Noth I, Yaspan BL, Jenkins RG, Wain LV, International IPF Genetics Consortium. Genome-wide association study across five cohorts identifies five novel loci associated with idiopathic pulmonary fibrosis. Thorax, in press.
 
 7: Allen RJ, Oldham JM, Jenkins DA, Leavy QC, Guillen-Guio B, Melbourne CA, Ma SF, Jou J, Kim JS, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Fahy WA, Oballa E, Hubbard RB, Navaratnam V, Braybrooke R, Saini G, Roach KM, Tobin MD, Hirani N, Whyte MKB, Kaminski N, Zhang Y, Martinez FJ, Linderholm AL, Adegunsoye A, Strek ME, Maher TM, Molyneaux PL, Flores C, Noth I, Jenkins RG, Wain LV. Genome-wide analysis of longitudinal lung function and gas transfer in individuals with idiopathic pulmonary fibrosis. medRxiv 2022.03.28.22272832; doi: https://doi.org/10.1101/2022.03.28.22272832
+
+8: Oldham JM, Allen RJ, Lorenzo-Salazar JM, Molyneaux PL, Ma SF, Joseph C, Kim JS, Guillen-Guio B, Hernández-Beeftink T, Kropski J, Huang Y, Lee CT, Adegunsoy A, Pugashetti JV, Linderholm A, Vo V, Strek M, Jou J, Muñoz-Barrera A, Rubio-Rodriguez LA, Hubbard R, Hirani N, Whyte MKB, Hart S, Nicholson A, Lancaster L, Parfrey H, Rassl D, Wallace W, Valenzi E, Zhang Y, Mychaleckyj J, Stockwell A, Kaminski N, Wolters P, Molina-Molina M, Fahy WA, Martinez FJ, Hall I, Tobin MD, Maher TM, Blackwell T, Yaspan B, Jenkins RG, Flores C, Wain LV, Noth I. PCSK6 and Survival in Idiopathic Pulmonary Fibrosis. medRxiv 2022.05.06.22274705; doi: https://doi.org/10.1101/2022.05.06.22274705
