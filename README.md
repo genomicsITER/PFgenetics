@@ -17,7 +17,7 @@ To date, genome-wide association studies (GWAS) of IPF susceptibility have assoc
 Building up on published GWAS results (1,3,4) and novel study samples, we have performed a large GWAS of IPF susceptibility (5) to identify novel genes and further advance in the understanding of IPF pathogenesis and risk. The discovery stage of the study comprised up to 2,668 IPF cases and 8,591 controls and replication was pursued in an additional 1,456 IPF cases and 11,874 controls.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWAS-IPF.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_susceptibility_GWAS-IPF.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Figure_susceptibility_GWASIPF.png) -->
@@ -65,7 +65,7 @@ No individual level data will be made available. Granted requests will have acce
 To maximise power and to generate more accurate effect size estimates, we performed a genome-wide meta-analysis across all five studies included in the previous IPF risk GWAS (6). We utilised the distribution of effect sizes across the five studies to assess the replicability of the results and identified five robust novel genetic association signals. A total of 4,125 IPF cases, 20,464 controls, and 7,554,248 genetic variants were included in the analysis.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_susceptibility_GWASIPF-5way.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_susceptibility_GWASIPF-5way.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Figure_susceptibility_GWASIPF-5way.png) -->
@@ -113,7 +113,7 @@ No individual level data will be made available. Granted requests will have acce
 To identify genetic variants associated with progressive forms of IPF, we performed a GWAS of longitudinal measures of FVC and DLco to identify variants that lead to a more rapid decline in lung capacity or gas transfer after a diagnosis of IPF (7; https://doi.org/10.1101/2022.03.28.22272832). The discovery stage was performed over three studies (US, UK and UUS). The FVC analysis comprised up to 1,048 IPF cases who had a total of 4,560 FVC measures recorded and the discovery stage of the DLco analysis comprised of 729 cases with a total of 2,795 DLco measures recorded. Follow-up analyses were performed in an independent dataset (the CleanUP-IPF study).
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_decline_GWASIPF.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_decline_GWASIPF.png" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Figure_decline_GWASIPF.png) -->
@@ -163,7 +163,7 @@ No individual level data will be made available. Granted requests will have acce
 A few IPF susceptibility-associated variants have been shown to predict IPF outcomes, suggesting that genomic determinants of IPF susceptibility and survival may have limited overlap. We have performed the first GWAS of IPF survival (8; https://doi.org/10.1101/2022.05.06.22274705) using paired genomic and outcome data from previous studies and novel IPF cases with whole-genome sequencing data from Vanderbilt University. The stage I of the study comprised 1,481 IPF cases assessed at genome-wide scale (UK, US, and UUS studies). Prioritized variants in stage I were then tested in additional 397 IPF cases in stage II, followed by meta-analysis.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/Figure_GWAS_survival.jpg" width="auto"/>
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_GWAS_survival.jpg" width="auto"/>
 </p>
 <p><br></p>
 <!-- ![What is this](Figure_GWAS_survival.jpg) -->
