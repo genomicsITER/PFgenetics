@@ -243,6 +243,6 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 
 <p align="right">
   <a href="https://github.com/genomicsITER/PFgenetics" title="Up">
-    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
