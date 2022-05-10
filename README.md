@@ -239,3 +239,9 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 7: Allen RJ, Oldham JM, Jenkins DA, Leavy QC, Guillen-Guio B, Melbourne CA, Ma SF, Jou J, Kim JS, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Fahy WA, Oballa E, Hubbard RB, Navaratnam V, Braybrooke R, Saini G, Roach KM, Tobin MD, Hirani N, Whyte MKB, Kaminski N, Zhang Y, Martinez FJ, Linderholm AL, Adegunsoye A, Strek ME, Maher TM, Molyneaux PL, Flores C, Noth I, Jenkins RG, Wain LV. Genome-wide analysis of longitudinal lung function and gas transfer in individuals with idiopathic pulmonary fibrosis. medRxiv 2022.03.28.22272832; doi: https://doi.org/10.1101/2022.03.28.22272832
 
 8: Oldham JM, Allen RJ, Lorenzo-Salazar JM, Molyneaux PL, Ma SF, Joseph C, Kim JS, Guillen-Guio B, Hernández-Beeftink T, Kropski J, Huang Y, Lee CT, Adegunsoy A, Pugashetti JV, Linderholm A, Vo V, Strek M, Jou J, Muñoz-Barrera A, Rubio-Rodriguez LA, Hubbard R, Hirani N, Whyte MKB, Hart S, Nicholson A, Lancaster L, Parfrey H, Rassl D, Wallace W, Valenzi E, Zhang Y, Mychaleckyj J, Stockwell A, Kaminski N, Wolters P, Molina-Molina M, Fahy WA, Martinez FJ, Hall I, Tobin MD, Maher TM, Blackwell T, Yaspan B, Jenkins RG, Flores C, Wain LV, Noth I. PCSK6 and Survival in Idiopathic Pulmonary Fibrosis. medRxiv 2022.05.06.22274705; doi: https://doi.org/10.1101/2022.05.06.22274705
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
