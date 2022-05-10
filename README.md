@@ -242,7 +242,7 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 8: Oldham JM, Allen RJ, Lorenzo-Salazar JM, Molyneaux PL, Ma SF, Joseph C, Kim JS, Guillen-Guio B, Hernández-Beeftink T, Kropski J, Huang Y, Lee CT, Adegunsoy A, Pugashetti JV, Linderholm A, Vo V, Strek M, Jou J, Muñoz-Barrera A, Rubio-Rodriguez LA, Hubbard R, Hirani N, Whyte MKB, Hart S, Nicholson A, Lancaster L, Parfrey H, Rassl D, Wallace W, Valenzi E, Zhang Y, Mychaleckyj J, Stockwell A, Kaminski N, Wolters P, Molina-Molina M, Fahy WA, Martinez FJ, Hall I, Tobin MD, Maher TM, Blackwell T, Yaspan B, Jenkins RG, Flores C, Wain LV, Noth I. PCSK6 and Survival in Idiopathic Pulmonary Fibrosis. medRxiv 2022.05.06.22274705; doi: https://doi.org/10.1101/2022.05.06.22274705
 
 <p align="right">
-  <a href="#PFgenetics" title="Up">
+  <a href="https://github.com/genomicsITER/PFgenetics" title="Up">
     <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
