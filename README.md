@@ -6,7 +6,7 @@ To date, genome-wide association studies (GWAS) of IPF susceptibility have assoc
 # Publicly available datasets
 
 <ul>
-  <li><a href="study1#">3-way meta-GWAS of IPF susceptibility (2020)</a></li>
+  <li><a href="#study1">3-way meta-GWAS of IPF susceptibility (2020)</a></li>
   <li><a href="#study2">5-way meta-GWAS of IPF susceptibility (2021)</a></li>
   <li><a href="#study3">GWAS of longitudinal lung function and gas transfer in individuals with IPF (2022)</a></li>
   <li><a href="#study4">GWAS of IPF of transplant-free survival (2022)</a></li>
