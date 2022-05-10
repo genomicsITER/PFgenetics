@@ -1,3 +1,5 @@
+<a name="#PFgenetics"></a>
+
 # Collaborative genetic studies of idiopathic pulmonary fibrosis
 Idiopathic pulmonary fibrosis (IPF) is characterized by the build-up of scar tissue in the lungs. It is believed that the damage to the alveolar epithelium is followed by an aberrant wound healing response leading to the deposition of dense fibrotic tissue, reducing the lungs’ flexibility and inhibiting gas transfer. IPF still has limited therapeutic interventions and a high mortality rate within 3-5 years from diagnosis.
 
