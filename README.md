@@ -71,6 +71,12 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
       [This is the p value from the meta-analysis]
 
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <br>
 <br>
 
@@ -123,6 +129,12 @@ No individual level data will be made available. Granted requests will have acce
       
    •	**p**
       [This is the p value from the meta-analysis]
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <br>
 <br>
@@ -179,6 +191,12 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
    [This is the p value from the meta-analysis]
 
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <br>
 <br>
 
@@ -227,6 +245,12 @@ No individual level data will be made available. Granted requests will have acce
 
    •	**P-value**
 [This is the p value from the meta-analysis]
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <br>
 <br>
@@ -278,6 +302,12 @@ rsid [Marker name (chromosome:position) build38]
 [This is the p value from the meta-analysis]
 
 
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <br>
 <br>
 
@@ -292,6 +322,12 @@ Requesters should provide a signed document including the following information:
 The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
 A template document for the request is [here](https://github.com/genomicsITER/PFgenetics/blob/master/Request_template.txt).
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <br>
 <br>
@@ -309,6 +345,12 @@ Dr. Imre Noth, Division of Pulmonary & Critical Care Medicine, University of Vir
 Dr. Justin M. Oldham, Department of Internal Medicine, University of California Davis, USA.
 
 Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Leicester Respiratory Biomedical Research Centre - Glenfield Hospital, UK.
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <br>
 <br>
