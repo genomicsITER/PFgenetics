@@ -1,8 +1,12 @@
 <a name="PFgenetics"></a>
+
 # Collaborative genetic studies of idiopathic pulmonary fibrosis
 Idiopathic pulmonary fibrosis (IPF) is characterized by the build-up of scar tissue in the lungs. It is believed that the damage to the alveolar epithelium is followed by an aberrant wound healing response leading to the deposition of dense fibrotic tissue, reducing the lungs’ flexibility and inhibiting gas transfer. IPF still has limited therapeutic interventions and a high mortality rate within 3-5 years from diagnosis.
 
 To date, genome-wide association studies (GWAS) of IPF susceptibility have associated common variants (minor allele frequency [MAF]>5%) near genes involved in host defence, telomere maintenance, cell-cell adhesion and signalling in disease susceptibility. Common variants near MUC5B and TOLLIP genes also show association with survival time after diagnosis of IPF (1,2).
+
+
+<!-- --------------------------------- SECTION -------------------------------- -->
 
 # Publicly available datasets
 
@@ -11,7 +15,11 @@ To date, genome-wide association studies (GWAS) of IPF susceptibility have assoc
   <li><a href="#study2">5-way meta-GWAS of IPF susceptibility (2021)</a></li>
   <li><a href="#study3">GWAS of longitudinal lung function and gas transfer in individuals with IPF (2022)</a></li>
   <li><a href="#study4">GWAS of IPF of transplant-free survival (2022)</a></li>
+  <li><a href="#study5">Genome-wide SNP-sex interaction analysis of susceptibility to IPF (2024)</a></li>
  </ul>
+
+
+<!-- --------------------------------- SECTION -------------------------------- -->
 
 <a name="study1"></a>
 # 3-way meta-GWAS of IPF susceptibility (2020)
@@ -61,6 +69,9 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
       [This is the p value from the meta-analysis]
 
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
 <a name="study2"></a>
 # 5-way meta-GWAS of IPF susceptibility (2021)
 To maximise power and to generate more accurate effect size estimates, we performed a genome-wide meta-analysis across all five studies included in the previous IPF risk GWAS (6). We utilised the distribution of effect sizes across the five studies to assess the replicability of the results and identified five robust novel genetic association signals. A total of 4,125 IPF cases, 20,464 controls, and 7,554,248 genetic variants were included in the analysis.
@@ -108,6 +119,9 @@ No individual level data will be made available. Granted requests will have acce
       
    •	**p**
       [This is the p value from the meta-analysis]
+
+
+<!-- --------------------------------- SECTION -------------------------------- -->
 
 <a name="study3"></a>
 ## GWAS of longitudinal lung function and gas transfer in individuals with IPF (2022)
@@ -159,6 +173,9 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
    [This is the p value from the meta-analysis]
 
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
 <a name="study4"></a>
 ## GWAS of IPF of transplant-free survival (2022)
 A few IPF susceptibility-associated variants have been shown to predict IPF outcomes, suggesting that genomic determinants of IPF susceptibility and survival may have limited overlap. We have performed the first GWAS of IPF survival (8; https://doi.org/10.1101/2022.05.06.22274705) using paired genomic and outcome data from previous studies and novel IPF cases with whole-genome sequencing data from Vanderbilt University. The stage I of the study comprised 1,481 IPF cases assessed at genome-wide scale (UK, US, and UUS studies). Prioritized variants in stage I were then tested in additional 397 IPF cases in stage II, followed by meta-analysis.
@@ -203,6 +220,55 @@ No individual level data will be made available. Granted requests will have acce
    •	**P-value**
 [This is the p value from the meta-analysis]
 
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
+<a name="study5"></a>
+## Genome-wide SNP-sex interaction analysis of susceptibility to IPF (2024)
+To identify genetic variants whose effects on IPF susceptibility are different in males and females, we performed a genome-wide meta-analysis across six IPF studies (9; https://doi.org/10.1101/2024.01.12.24301204). We utilised the distribution of effect sizes across the six studies to assess the replicability of the results and identified three suggestively significant (P<1x10-6) genetic association signals. A total of to 4,561 cases (comprising 1,280 females and 2,281 males) and 23,500 controls (8,360 females and 14,528 males) were included in the analysis. We analysed a total of 8,485,642 genetic variants. We sought validation of male-specific effect sizes and direction in a male-only IPF case control study, IPFJES (IPF Job Exposure Study), comprising 416 male IPF cases and 2,465 male controls
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_sex-interaction_GWAS-IPF-6ways.jpg" width="auto" title="study5" alt="study5" />
+</p>
+<p><br></p>
+<!-- ![What is this](Figure_sex-interaction_GWAS-IPF-6ways.jpg) -->
+
+
+## Access to the results of this study
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this genome-wide SNP-sex interaction analysis of susceptibility to IPF by Leavy et al. (9; https://doi.org/10.1101/2024.01.12.24301204) (approximately 800 MB) can be accessed after an internal assessment of formal requests received.
+
+## What type of results would be made available?
+No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
+
+   •	**chromosome** 
+
+   •	**position** 
+[Position according to GRCh38 reference]
+
+   •	**rsid** 
+rsid [Marker name (chromosome:position) build38]
+
+   •	**non_effect_allele**
+
+   •	**effect_allele** 
+
+   •	**eaf**
+[Effect Allele Frequency from across five of the six studies included in the meta-analysis (UK, US, Colorado, UUS and CleanUP-UCD)]. Please note, some of the allele frequencies are less than 1%, this is because they are based on a sub-sample of all samples used for TopMed imputation and samples analysed. 
+
+   •	**n_studies** 
+[The number of studies the variant was analysed in the meta-analysis]
+
+   •	**beta**
+[This is the beta from the meta-analysis]
+
+   •	**standard_error**
+[This is the standard error from the meta-analysis]
+
+   •	**p**
+[This is the p value from the meta-analysis]
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
@@ -212,6 +278,9 @@ Requesters should provide a signed document including the following information:
 The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
 A template document for the request is [here](https://github.com/genomicsITER/PFgenetics/blob/master/Request_template.txt).
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
 
 ## Collaborative group
 Dr. Carlos Flores, Research Unit - Hospital Universitario N.S. de Candelaria & Genomics Division – Instituto Tecnológico y de Energías Renovables (ITER), Spain.
@@ -223,6 +292,9 @@ Dr. Imre Noth, Division of Pulmonary & Critical Care Medicine, University of Vir
 Dr. Justin M. Oldham, Department of Internal Medicine, University of California Davis, USA.
 
 Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Leicester Respiratory Biomedical Research Centre - Glenfield Hospital, UK.
+
+
+<!-- --------------------------------- SECTION -------------------------------- -->
 
 ## References
 1: Noth I, Zhang Y, Ma SF, Flores C, Barber M, Huang Y, Broderick SM, Wade MS, Hysi P, Scuirba J, Richards TJ, Juan-Guardela BM, Vij R, Han MK, Martinez FJ, Kossen K, Seiwert SD, Christie JD, Nicolae D, Kaminski N, Garcia JGN. Genetic variants associated with idiopathic pulmonary fibrosis susceptibility and mortality: a genome-wide association study. Lancet Respir Med 2013, 1: 309-317. doi: https://doi.org/10.1016/S2213-2600(13)70045-6. PubMed PMID: 24429156.
@@ -242,7 +314,6 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 8: Oldham JM, Allen RJ, Lorenzo-Salazar JM, Molyneaux PL, Ma SF, Joseph C, Kim JS, Guillen-Guio B, Hernández-Beeftink T, Kropski J, Huang Y, Lee CT, Adegunsoy A, Pugashetti JV, Linderholm A, Vo V, Strek M, Jou J, Muñoz-Barrera A, Rubio-Rodriguez LA, Hubbard R, Hirani N, Whyte MKB, Hart S, Nicholson A, Lancaster L, Parfrey H, Rassl D, Wallace W, Valenzi E, Zhang Y, Mychaleckyj J, Stockwell A, Kaminski N, Wolters P, Molina-Molina M, Fahy WA, Martinez FJ, Hall I, Tobin MD, Maher TM, Blackwell T, Yaspan B, Jenkins RG, Flores C, Wain LV, Noth I. PCSK6 and Survival in Idiopathic Pulmonary Fibrosis. Am J Respir Crit Care Med 2023, 207: 1515–1524. doi: https://doi.org/10.1164/rccm.202205-0845OC. PubMed PMID: 36780644.
 
 9: Leavy OC, Goemans AF, Stockwell AD, Allen RJ, Guillen-Guio B, Hernandez-Beeftink T, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Cullinan P, Fahy WA, Fingerlin TE, Virk HS, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Kaminski N, Ma SF, McAnulty RJ, Sheng XR, Millar AB, Molina-Molina M, Navaratnam V, Neighbors M, Parfrey H, Saini G, Sayers I, Strek ME, Tobin MD, Whyte MKB, Zhang Y, Maher TM, Molyneaux PL, Oldham JM, Yaspan BL, Flores C, Martinez F, Reynolds CJ, Schwartz DA, Noth I, Jenkins RG, Wain LV. Genome-wide SNP-sex interaction analysis of susceptibility to idiopathic pulmonary fibrosis. medRxiv 2024.01.12.24301204; doi: https://doi.org/10.1101/2024.01.12.24301204
-
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
