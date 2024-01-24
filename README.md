@@ -1,5 +1,7 @@
 <a name="PFgenetics"></a>
 
+<!-- Last updated: January 24, 2024 -->
+
 # Collaborative genetic studies of idiopathic pulmonary fibrosis
 Idiopathic pulmonary fibrosis (IPF) is characterized by the build-up of scar tissue in the lungs. It is believed that the damage to the alveolar epithelium is followed by an aberrant wound healing response leading to the deposition of dense fibrotic tissue, reducing the lungs’ flexibility and inhibiting gas transfer. IPF still has limited therapeutic interventions and a high mortality rate within 3-5 years from diagnosis.
 
@@ -69,6 +71,8 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
       [This is the p value from the meta-analysis]
 
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -120,6 +124,8 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
       [This is the p value from the meta-analysis]
 
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -173,6 +179,8 @@ No individual level data will be made available. Granted requests will have acce
    •	**p**
    [This is the p value from the meta-analysis]
 
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -220,6 +228,8 @@ No individual level data will be made available. Granted requests will have acce
    •	**P-value**
 [This is the p value from the meta-analysis]
 
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -267,6 +277,10 @@ rsid [Marker name (chromosome:position) build38]
    •	**p**
 [This is the p value from the meta-analysis]
 
+
+<br>
+<br>
+
 <!-- --------------------------------- SECTION -------------------------------- -->
 
 ## Who should I contact for requesting access to the data?
@@ -278,6 +292,9 @@ Requesters should provide a signed document including the following information:
 The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
 A template document for the request is [here](https://github.com/genomicsITER/PFgenetics/blob/master/Request_template.txt).
+
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -293,6 +310,8 @@ Dr. Justin M. Oldham, Department of Internal Medicine, University of California 
 
 Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Leicester Respiratory Biomedical Research Centre - Glenfield Hospital, UK.
 
+<br>
+<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
