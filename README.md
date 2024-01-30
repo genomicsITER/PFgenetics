@@ -246,7 +246,10 @@ No individual level data will be made available. Granted requests will have acce
    •	**P-value**
 [This is the p value from the meta-analysis]
 
-Note: see logs section <a href="#Update logs">[1]</a> for recent changes in the shared data for this study.
+### Note:
+see logs section <a href="#Update logs">[1]</a> for recent changes in the shared data for this study.
+
+<br>
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
