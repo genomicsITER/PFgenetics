@@ -247,7 +247,8 @@ No individual level data will be made available. Granted requests will have acce
 [This is the p value from the meta-analysis]
 
 ### Note:
-see logs section <a href="#Update logs">[1]</a> for recent changes in the shared data for this study.
+
+See logs section <a href="#Update logs">[1]</a> for recent changes (January 2024) in the shared data for this study.
 
 <br>
 
