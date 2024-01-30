@@ -229,10 +229,13 @@ No individual level data will be made available. Granted requests will have acce
 [Marker name (CHR:POS)]
 
    •	**REF**
-[Reference/Non-effect allele]
+[Reference allele]
 
    •	**ALT** 
-[Alternative/Effect allele]
+[Alternative allele]
+
+   •	**EAF**
+[Effect allele]
 
    •	**EAF**
 [Effect allele frequency taken from across all three studies included in the stage I]
