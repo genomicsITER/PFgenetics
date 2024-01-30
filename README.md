@@ -246,7 +246,7 @@ No individual level data will be made available. Granted requests will have acce
    •	**P-value**
 [This is the p value from the meta-analysis]
 
-Note: see logs section [1] for recent changes in the shared data for this study.
+Note: see logs section <a href="#Update logs">[1]</a> for recent changes in the shared data for this study.
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
@@ -386,7 +386,7 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 <a name="Update logs"></a>
 ## Update logs
 
-> [1] January 30, 2024. Revised version of the data file after detecting some issues with missing fields.
+> [1] January 30, 2024. Revised version of the GWAS of IPF of transplant-free survival (2022) data file after detecting some issues with missing fields: 'Effect' and 'Non effect' alleles (instead of REF and ALT alleles) has been included; missing EAF values are now included, and issues with 'Effect' are also solved. 
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
