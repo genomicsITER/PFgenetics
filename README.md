@@ -386,7 +386,7 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 <a name="Update logs"></a>
 ## Update logs
 
-> [1] January 30, 2024. Revised version of the GWAS of IPF of transplant-free survival (2022) data file after detecting some issues with missing fields: 'Effect' and 'Non effect' alleles (instead of REF and ALT alleles) has been included; missing EAF values are now included, and issues with 'Effect' are also solved. 
+> [1] January 30, 2024. Revised version of the GWAS of IPF of transplant-free survival (2022) data file after some issues were reported by end-users: <i>'Effect'</i> and <i>'Non effect'</i> alleles (instead of <i>'REF'</i> and <i>'ALT'</i> alleles) has been included; missing <i>'EAF'</i> values are now included, and issues with <i>'Effect'</i> are also fixed. 
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
