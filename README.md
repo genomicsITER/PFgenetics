@@ -234,7 +234,7 @@ No individual level data will be made available. Granted requests will have acce
    •	**ALT** 
 [Alternative allele]
 
-   •	**EAF**
+   •	**EA**
 [Effect allele]
 
    •	**EAF**
