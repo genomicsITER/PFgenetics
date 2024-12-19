@@ -322,6 +322,8 @@ rsid [Marker name (chromosome:position) build38]
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
+Please, be aware that delays in obtaining a response with the instructions for downloading are expected during particular periods of the year.
+
 ## Which information should I submit to access the variant summary data?
 Requesters should provide a signed document including the following information: full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used. 
 
