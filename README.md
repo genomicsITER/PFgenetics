@@ -322,7 +322,7 @@ rsid [Marker name (chromosome:position) build38]
 
 <a name="study6"></a>
 ## 7-way meta-GWAS of IPF susceptibility imputed with TopMed (2025)
-To identify additional genes involved in the pathogenesis of IPF that could provide new pathobiological avenues of investigation and guide future drug target discovery, we performed a genome-wide meta-analysis of seven studies using clinically curated European ancestry datasets with dense genomic coverage (10: https://doi.org/10.1101/2025.01.30.25321017). This study compromise 5,159 IPF cases and 27,459 controls. Genotypes were obtained from Whole Genome Sequencing (WGS) or from array-based imputation to the TOPMed WGS reference panel.
+To identify additional genes involved in the pathogenesis of IPF that could provide new pathobiological avenues of investigation and guide future drug target discovery, we performed a genome-wide meta-analysis of seven studies using clinically curated European ancestry datasets with dense genomic coverage (10; https://doi.org/10.1101/2025.01.30.25321017). This study compromise 5,159 IPF cases and 27,459 controls. Genotypes were obtained from Whole Genome Sequencing (WGS) or from array-based imputation to the TOPMed WGS reference panel.
 
 <p align="center">
   <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_github_topmedgwas_2025.png"" width="auto" title="study6" alt="study6" />
@@ -332,7 +332,7 @@ To identify additional genes involved in the pathogenesis of IPF that could prov
 
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (10: https://doi.org/10.1101/2025.01.30.25321017) (approximately 1.96 GB) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (10; https://doi.org/10.1101/2025.01.30.25321017) (approximately 1.96 GB) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
