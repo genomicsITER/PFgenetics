@@ -18,6 +18,7 @@ To date, genome-wide association studies (GWAS) of IPF susceptibility have assoc
   <li><a href="#study3">GWAS of longitudinal lung function and gas transfer in individuals with IPF (2022)</a></li>
   <li><a href="#study4">GWAS of IPF of transplant-free survival (2022)</a></li>
   <li><a href="#study5">Genome-wide SNP-sex interaction analysis of susceptibility to IPF (2024)</a></li>
+  <li><a href="#study6">7-way meta-GWAS of IPF susceptibility imputed with TopMed (2025)</a></li> 
  </ul>
 
 
@@ -319,6 +320,56 @@ rsid [Marker name (chromosome:position) build38]
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
+<a name="study6"></a>
+## 7-way meta-GWAS of IPF susceptibility imputed with TopMed (2025)
+To identify additional genes involved in the pathogenesis of IPF that could provide new pathobiological avenues of investigation and guide future drug target discovery, we performed a genome-wide meta-analysis of all seven studies using clinically curated European ancestry datasets with dense genomic coverage (https://doi.org/10.1101/2025.01.30.25321017). This study compromise 5,159 IPF cases and 27,459 controls. Genotypes were obtained from Whole Genome Sequencing (WGS) or from array-based imputation to the TOPMed WGS reference panel.
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_github_topmedgwas_2025.png"" width="auto" title="study6" alt="study6" />
+</p>
+<p><br></p>
+<!-- ![What is this](Figure_github_topmedgwas_2025.png") -->
+
+
+## Access to the results of this study
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (https://doi.org/10.1101/2025.01.30.25321017 (approximately 1.96 GB) can be accessed after an internal assessment of formal requests received.
+
+## What type of results would be made available?
+No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
+
+   •	**chromosome** [build38]
+
+   •	**position** [build38]
+
+   •	**rsid** [Marker name (chromosome:position) build38]
+
+   •	**non_effect_allele**
+
+   •	**effect_allele**
+
+   •	**eaf** [Effect Allele Frequency average from across seven studies included in the meta-analysis. Please note that some of the allele frequencies are less than 1% because they are based on a sub-sample of all samples used for TopMed imputation and samples analysed. In this study, we filtered SNPs based on minor allele account (MAC) ≤ 3 for each individual study, not by MAF. See the manuscript for further details].
+
+   •	**n_studies** [The number of studies the variant was analysed in the meta-analysis]
+
+   •	**beta** [This is the beta from the meta-analysis]
+
+   •	**standard_error** [This is the standard error from the meta-analysis]
+
+   •	**p** [This is the p value from the meta-analysis]
+
+
+<p align="right">
+  <a href="#PFgenetics" title="Up">
+    <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<br>
+<br>
+
+
+<!-- --------------------------------- SECTION -------------------------------- -->
+
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`GWASIPF[dot]adm[at]gmail.com`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
 
@@ -382,7 +433,10 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 
 8: Oldham JM, Allen RJ, Lorenzo-Salazar JM, Molyneaux PL, Ma SF, Joseph C, Kim JS, Guillen-Guio B, Hernández-Beeftink T, Kropski J, Huang Y, Lee CT, Adegunsoy A, Pugashetti JV, Linderholm A, Vo V, Strek M, Jou J, Muñoz-Barrera A, Rubio-Rodriguez LA, Hubbard R, Hirani N, Whyte MKB, Hart S, Nicholson A, Lancaster L, Parfrey H, Rassl D, Wallace W, Valenzi E, Zhang Y, Mychaleckyj J, Stockwell A, Kaminski N, Wolters P, Molina-Molina M, Fahy WA, Martinez FJ, Hall I, Tobin MD, Maher TM, Blackwell T, Yaspan B, Jenkins RG, Flores C, Wain LV, Noth I. PCSK6 and Survival in Idiopathic Pulmonary Fibrosis. Am J Respir Crit Care Med 2023, 207: 1515–1524. doi: https://doi.org/10.1164/rccm.202205-0845OC. PubMed PMID: 36780644.
 
-9: Leavy OC, Goemans AF, Stockwell AD, Allen RJ, Guillen-Guio B, Hernandez-Beeftink T, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Cullinan P, Fahy WA, Fingerlin TE, Virk HS, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Kaminski N, Ma SF, McAnulty RJ, Sheng XR, Millar AB, Molina-Molina M, Navaratnam V, Neighbors M, Parfrey H, Saini G, Sayers I, Strek ME, Tobin MD, Whyte MKB, Zhang Y, Maher TM, Molyneaux PL, Oldham JM, Yaspan BL, Flores C, Martinez F, Reynolds CJ, Schwartz DA, Noth I, Jenkins RG, Wain LV. Genome-wide SNP-sex interaction analysis of susceptibility to idiopathic pulmonary fibrosis. medRxiv 2024.01.12.24301204; doi: https://doi.org/10.1101/2024.01.12.24301204
+9: Leavy OC, Goemans AF, Stockwell AD, Allen RJ, Guillen-Guio B, Hernandez-Beeftink T, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Cullinan P, Fahy WA, Fingerlin TE, Virk HS, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Kaminski N, Ma SF, McAnulty RJ, Sheng XR, Millar AB, Molina-Molina M, Navaratnam V, Neighbors M, Parfrey H, Saini G, Sayers I, Strek ME, Tobin MD, Whyte MKB, Zhang Y, Maher TM, Molyneaux PL, Oldham JM, Yaspan BL, Flores C, Martinez F, Reynolds CJ, Schwartz DA, Noth I, Jenkins RG, Wain LV. Genome-wide SNP-sex interaction analysis of susceptibility to idiopathic pulmonary fibrosis. medRxiv 2024.01.12.24301204; doi: https://doi.org/10.1101/2024.01.12.24301204.
+
+10: Chin D, Hernandez-Beeftink T, Donoghue L, Guillen-Guio B, Leavy OC, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Fahy WA, Fingerlin TE, Gooptu B, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Johnson S, Kaminski N, Lorenzo-Salazar JM, Ma SF, McAnulty RJ, McCarthy M, Stockwell AD, Maher TM, Millar AB, Molyneaux PL, Molina-Molina M, Navaratnam V, Neighbors M, Oldham JM, Parfrey H, Saini G, Sayers I, Sheng XR, Stewart ID, Strek ME,
+Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Schwartz DA, Flores C, Noth I, Jenkins, RG, Allen RJ, Wain LW. Genome-wide association study of Idiopathic Pulmonary Fibrosis susceptibility using clinically-curated European-ancestry datasets. medRxiv 2025.01.30.25321017. doi: https://doi.org/10.1101/2025.01.30.25321017.
 
 <br>
 <br>
