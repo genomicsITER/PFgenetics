@@ -347,7 +347,7 @@ No individual level data will be made available. Granted requests will have acce
 
    •	**effect_allele**
 
-   •	**eaf** [Effect Allele Frequency average from across seven studies included in the meta-analysis].
+   •	**eaf** [Effect Allele Frequency average from across seven studies included in the meta-analysis]
    <br><i>Please note that some of the allele frequencies are less than 1% because they are based on a sub-sample of all samples used for TopMed imputation and samples analysed. In this study, we filtered SNPs based on minor allele account (MAC) ≤ 3 for each individual study, not by MAF. See the manuscript for further details</i>.
 
    •	**n_studies** [The number of studies the variant was analysed in the meta-analysis]
