@@ -332,7 +332,7 @@ To identify additional genes involved in the pathogenesis of IPF that could prov
 
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (https://doi.org/10.1101/2025.01.30.25321017 (approximately 1.96 GB) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (https://doi.org/10.1101/2025.01.30.25321017) (approximately 1.96 GB) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
@@ -347,7 +347,7 @@ No individual level data will be made available. Granted requests will have acce
 
    •	**effect_allele**
 
-   •	**eaf** [Effect Allele Frequency average from across seven studies included in the meta-analysis. Please note that some of the allele frequencies are less than 1% because they are based on a sub-sample of all samples used for TopMed imputation and samples analysed. In this study, we filtered SNPs based on minor allele account (MAC) ≤ 3 for each individual study, not by MAF. See the manuscript for further details].
+   •	**eaf** [Effect Allele Frequency average from across seven studies included in the meta-analysis]. <i>Please note that some of the allele frequencies are less than 1% because they are based on a sub-sample of all samples used for TopMed imputation and samples analysed. In this study, we filtered SNPs based on minor allele account (MAC) ≤ 3 for each individual study, not by MAF. See the manuscript for further details</i>.
 
    •	**n_studies** [The number of studies the variant was analysed in the meta-analysis]
 
