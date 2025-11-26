@@ -448,11 +448,11 @@ Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Sc
 <a name="Update logs"></a>
 ## Update logs
 
-> [3] November 26, 2025. GWAS catalog accession for reference 9 study is provided.
+> November 26, 2025. GWAS catalog accession for reference 9 study is provided.
 
-> [2] October 1, 2025. Updated reference 9.
+> October 1, 2025. Updated reference 9.
  
-> [1] January 30, 2024. Revised version of the GWAS of IPF of transplant-free survival (2022) data file after some issues were reported by end-users: <i>'Effect'</i> and <i>'Non effect'</i> alleles (instead of <i>'REF'</i> and <i>'ALT'</i> alleles) has been included; missing <i>'EAF'</i> values are now included, and issues with <i>'Effect'</i> are also fixed. 
+> January 30, 2024. Revised version of the GWAS of IPF of transplant-free survival (2022) data file after some issues were reported by end-users: <i>'Effect'</i> and <i>'Non effect'</i> alleles (instead of <i>'REF'</i> and <i>'ALT'</i> alleles) has been included; missing <i>'EAF'</i> values are now included, and issues with <i>'Effect'</i> are also fixed. 
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
