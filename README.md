@@ -276,8 +276,9 @@ To identify genetic variants whose effects on IPF susceptibility are different i
 
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this genome-wide SNP-sex interaction analysis of susceptibility to IPF by Leavy et al. (9; https://doi.org/10.1101/2024.01.12.24301204) (approximately 800 MB) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this genome-wide SNP-sex interaction analysis of susceptibility to IPF by Leavy et al. (9; https://doi.org/10.1101/2024.01.12.24301204) (approximately 800 MB) can be accessed from the GWAS catalog here: [https://www.ebi.ac.uk/gwas/studies/GCST90702485](https://www.ebi.ac.uk/gwas/studies/GCST90702485)<!-- after an internal assessment of formal requests received. -->
 
+<!-- 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
 
@@ -307,7 +308,7 @@ rsid [Marker name (chromosome:position) build38]
 
    •	**p**
 [This is the p value from the meta-analysis]
-
+-->
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
