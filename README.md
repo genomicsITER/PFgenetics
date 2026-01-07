@@ -448,7 +448,7 @@ Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Sc
 <a name="Update logs"></a>
 ## Update logs
 
-> January 7, 2026. GWAS catalog accessions for references 5, 6, and 7 studies are provided.
+> January 7, 2026. GWAS catalog accessions for studies referenced in 5, 6, and 7 are provided.
 
 > November 26, 2025. GWAS catalog accession for reference 9 study is provided.
 
