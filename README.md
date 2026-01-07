@@ -96,7 +96,7 @@ To maximise power and to generate more accurate effect size estimates, we perfor
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (6; https://doi.org/10.1101/2021.12.06.21266509) <!-- (roughly 0.8 Gb) --> can be accessed from the GWAS catalog (study accession [35688625](https://www.ebi.ac.uk/gwas/publications/35688625). <!--  after an internal assessment of formal requests received. -->
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this second meta-analysis by Allen et al. (6; https://doi.org/10.1101/2021.12.06.21266509) <!-- (roughly 0.8 Gb) --> can be accessed from the GWAS catalog (study accession [35688625](https://www.ebi.ac.uk/gwas/publications/35688625)). <!--  after an internal assessment of formal requests received. -->
 <!--
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
