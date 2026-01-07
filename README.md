@@ -216,8 +216,8 @@ A few IPF susceptibility-associated variants have been shown to predict IPF outc
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from the stage I of the GWAS of survival (8; https://doi.org/10.1101/2022.05.06.22274705) (585 Mb) can be accessed after an internal assessment of formal requests received.
-
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from the stage I of the GWAS of survival (8; https://doi.org/10.1101/2022.05.06.22274705) <!-- (585 Mb) --> can be accessed from the GWAS catalog (study accession [36780644](https://www.ebi.ac.uk/gwas/publications/36780644)). <!-- after an internal assessment of formal requests received. -->
+<!-- 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS variant summary data with information for the following descriptors:
 
@@ -252,7 +252,7 @@ No individual level data will be made available. Granted requests will have acce
 See logs section <a href="#Update logs">[1]</a> for recent changes (January 2024) in the shared data for this study.
 
 <br>
-
+-->
 <p align="right">
   <a href="#PFgenetics" title="Up">
     <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -448,7 +448,7 @@ Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Sc
 <a name="Update logs"></a>
 ## Update logs
 
-> January 7, 2026. GWAS catalog accessions for studies referenced in 5, 6, and 7 are provided.
+> January 7, 2026. GWAS catalog accessions for studies referenced in 5, 6, 7, and 8 are provided.
 
 > November 26, 2025. GWAS catalog accession for reference 9 study is provided.
 
