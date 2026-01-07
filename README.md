@@ -155,8 +155,8 @@ To identify genetic variants associated with progressive forms of IPF, we perfor
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (7; https://doi.org/10.1016/S2213-2600(22)00251-X) (470Mb each) can be accessed after an internal assessment of formal requests received.
- 
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (7; https://doi.org/10.1016/S2213-2600(22)00251-X) <!-- (470Mb each) --> can be accessed from the GWAS catalog (study accession [35985358](https://www.ebi.ac.uk/gwas/publications/35985358)). <!-- after an internal assessment of formal requests received. -->
+<!--
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to both the longitudinal FVC and longitudinal DLco analyses in files with the following descriptors:
 
@@ -191,7 +191,7 @@ No individual level data will be made available. Granted requests will have acce
    
    •	**p**
    [This is the p value from the meta-analysis]
-
+-->
 <p align="right">
   <a href="#PFgenetics" title="Up">
     <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
