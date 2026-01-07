@@ -37,7 +37,7 @@ Building up on published GWAS results (1,3,4) and novel study samples, we have p
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (5; https://doi.org/10.1164/rccm.201905-1017OC) (1.31 Gb) can be accessed after an internal assessment of formal requests received.
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the discovery stage of the study by Allen et al. (5; https://doi.org/10.1164/rccm.201905-1017OC) <!--(1.31 Gb)--> can be accessed from the GWAS catalog (study accession [31710517](https://www.ebi.ac.uk/gwas/publications/31710517)).<!--  after an internal assessment of formal requests received. -->
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
@@ -447,6 +447,8 @@ Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Sc
 
 <a name="Update logs"></a>
 ## Update logs
+
+> January 7, 2026. GWAS catalog accession for reference 5 study is provided.
 
 > November 26, 2025. GWAS catalog accession for reference 9 study is provided.
 
