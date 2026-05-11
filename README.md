@@ -205,7 +205,7 @@ No individual level data will be made available. Granted requests will have acce
 
 <a name="study4"></a>
 ## GWAS of IPF of transplant-free survival (2022)
-A few IPF susceptibility-associated variants have been shown to predict IPF outcomes, suggesting that genomic determinants of IPF susceptibility and survival may have limited overlap. We have performed the first GWAS of IPF survival (8; https://doi.org/10.1164/rccm.202205-0845OC) using paired genomic and outcome data from previous studies and novel IPF cases with whole-genome sequencing data from Vanderbilt University. The stage I of the study comprised 1,481 IPF cases assessed at genome-wide scale (UK, US, and UUS studies). Prioritized variants in stage I were then tested in additional 397 IPF cases in stage II, followed by meta-analysis.
+A few IPF susceptibility-associated variants have been shown to predict IPF outcomes, suggesting that genomic determinants of IPF susceptibility and survival may have limited overlap. We have performed the first GWAS of IPF survival (8; [https://doi.org/10.1164/rccm.202205-0845OC](https://doi.org/10.1164/rccm.202205-0845OC)) using paired genomic and outcome data from previous studies and novel IPF cases with whole-genome sequencing data from Vanderbilt University. The stage I of the study comprised 1,481 IPF cases assessed at genome-wide scale (UK, US, and UUS studies). Prioritized variants in stage I were then tested in additional 397 IPF cases in stage II, followed by meta-analysis.
 
 <p align="center">
   <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_GWAS_survival.jpg" width="auto"/>
