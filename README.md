@@ -216,7 +216,7 @@ A few IPF susceptibility-associated variants have been shown to predict IPF outc
 **Sample sizes for genome-wide analyses**
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from the stage I of the GWAS of survival (8; [https://doi.org/10.1101/2022.05.06.22274705](https://doi.org/10.1164/rccm.202205-0845OC](https://doi.org/10.1164/rccm.202205-0845OC)) can be accessed from the GWAS catalog (study accession [36780644](https://www.ebi.ac.uk/gwas/publications/36780644)).
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from the stage I of the GWAS of survival (8; [https://doi.org/10.1164/rccm.202205-0845OC](https://doi.org/10.1164/rccm.202205-0845OC)) can be accessed from the GWAS catalog (study accession [36780644](https://www.ebi.ac.uk/gwas/publications/36780644)).
 <!-- 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS variant summary data with information for the following descriptors:
