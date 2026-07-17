@@ -438,7 +438,7 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 9: Leavy OC, Goemans AF, Stockwell AD, Allen RJ, Guillen-Guio B, Hernandez-Beeftink T, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Cullinan P, Fahy WA, Fingerlin TE, Virk HS, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Kaminski N, Ma SF, McAnulty RJ, Sheng XR, Millar AB, Molina-Molina M, Navaratnam V, Neighbors M, Parfrey H, Saini G, Sayers I, Strek ME, Tobin MD, Whyte MKB, Zhang Y, Maher TM, Molyneaux PL, Oldham JM, Yaspan BL, Flores C, Martinez F, Reynolds CJ, Schwartz DA, Noth I, Jenkins RG, Wain LV. Genome-wide SNP-sex interaction analysis of susceptibility to idiopathic pulmonary fibrosis. ERJ Open Research 2025, 11(5):00200-2025. doi: https://doi.org/10.1183/23120541.00200-2025.
 
 10: Chin D, Hernandez-Beeftink T, Donoghue L, Guillen-Guio B, Leavy OC, Adegunsoye A, Booth HL, CleanUP-IPF Investigators of the Pulmonary Trials Cooperative, Fahy WA, Fingerlin TE, Gooptu B, Hall IP, Hart SP, Hill MR, Hirani N, Hubbard RB, Johnson S, Kaminski N, Lorenzo-Salazar JM, Ma SF, McAnulty RJ, McCarthy M, Stockwell AD, Maher TM, Millar AB, Molyneaux PL, Molina-Molina M, Navaratnam V, Neighbors M, Oldham JM, Parfrey H, Saini G, Sayers I, Sheng XR, Stewart ID, Strek ME,
-Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Schwartz DA, Flores C, Noth I, Jenkins, RG, Allen RJ, Wain LW. Genome-wide association study of Idiopathic Pulmonary Fibrosis susceptibility using clinically-curated European-ancestry datasets. medRxiv 2025.01.30.25321017. doi: https://doi.org/10.1101/2025.01.30.25321017.
+Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Schwartz DA, Flores C, Noth I, Jenkins, RG, Allen RJ, Wain LW. Genome-wide association study of Idiopathic Pulmonary Fibrosis susceptibility using clinically-curated European-ancestry datasets. European Respiratory Journal, 2026, 68(1):2600506. doi: https://doi.org/10.1183/13993003.00506-2026.
 
 <br>
 <br>
@@ -447,6 +447,8 @@ Tobin MD, Whyte MKB, Zarcone MC, Zhang Y, Martinez F, Yaspan BL, Reynolds CJ, Sc
 
 <a name="Update logs"></a>
 ## Update logs
+
+> July 17, 2026. Updated reference 10.
 
 > January 7, 2026. GWAS catalog accessions for studies referenced in 5, 6, 7, and 8 are provided.
 
