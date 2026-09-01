@@ -333,8 +333,9 @@ To identify additional genes involved in the pathogenesis of IPF that could prov
 
 
 ## Access to the results of this study
-To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (10; https://doi.org/10.1183/13993003.00506-2026) can be accessed from the GWAS catalog (study accession GCST90984755).
+To help advance IPF research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 7-way meta-GWAS of susceptibility to IPF (10; https://doi.org/10.1183/13993003.00506-2026) can be accessed from the GWAS catalog (study accession [GCST90984755](https://www.ebi.ac.uk/gwas/studies/GCST90984755)).
 
+<!--
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with the following descriptors:
 
@@ -358,7 +359,7 @@ No individual level data will be made available. Granted requests will have acce
    •	**standard_error** [This is the standard error from the meta-analysis]
 
    •	**p** [This is the p value from the meta-analysis]
-
+-->
 
 <p align="right">
   <a href="#PFgenetics" title="Up">
