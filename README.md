@@ -447,9 +447,11 @@ Dr. Louise V. Wain, Department of Health Sciences - University of Leicester & Le
 <a name="Update logs"></a>
 ## Update logs
 
+> September 1, 2026. GWAS catalog accession for reference 10 study is provided.
+
 > July 17, 2026. Updated reference 10.
 
-> January 7, 2026. GWAS catalog accessions for studies referenced in 5, 6, 7, and 8 are provided.
+> January 7, 2026. GWAS catalog accessions for the studies referenced in 5, 6, 7, and 8 are provided.
 
 > November 26, 2025. GWAS catalog accession for reference 9 study is provided.
 
