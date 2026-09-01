@@ -323,7 +323,7 @@ rsid [Marker name (chromosome:position) build38]
 
 <a name="study6"></a>
 ## 7-way meta-GWAS of IPF susceptibility imputed with TopMed (2025)
-To identify additional genes involved in the pathogenesis of IPF that could provide new pathobiological avenues of investigation and guide future drug target discovery, we performed a genome-wide meta-analysis of seven studies using clinically curated European ancestry datasets with dense genomic coverage (10; https://doi.org/10.1101/2025.01.30.25321017). This study compromise 5,159 IPF cases and 27,459 controls. Genotypes were obtained from Whole Genome Sequencing (WGS) or from array-based imputation to the TOPMed WGS reference panel.
+To identify additional genes involved in the pathogenesis of IPF that could provide new pathobiological avenues of investigation and guide future drug target discovery, we performed a genome-wide meta-analysis of seven studies using clinically curated European ancestry datasets with dense genomic coverage (10; https://doi.org/10.1183/13993003.00506-2026). This study compromise 5,159 IPF cases and 27,459 controls. Genotypes were obtained from Whole Genome Sequencing (WGS) or from array-based imputation to the TOPMed WGS reference panel.
 
 <p align="center">
   <img src="https://github.com/genomicsITER/PFgenetics/blob/master/images/Figure_github_topmedgwas_2025.png"" width="auto" title="study6" alt="study6" />
